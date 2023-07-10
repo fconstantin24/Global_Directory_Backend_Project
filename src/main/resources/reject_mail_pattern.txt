@@ -1,0 +1,5 @@
+Hello %s,
+We are sorry to inform you that your registration request has been rejected for the reason: %s.
+Here you have more details about the rejection of your application:
+%s
+Have a nice day!

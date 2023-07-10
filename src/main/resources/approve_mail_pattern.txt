@@ -1,0 +1,5 @@
+Hello %s,
+We are happy to inform you that your request to register on the platform has been accepted.
+Now you have the possibility to log in at any time and interact with colleagues in the company, also, we
+made a special post to share with your colleagues your joining the company.
+Have a nice day!
